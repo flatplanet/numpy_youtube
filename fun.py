@@ -4,7 +4,7 @@ import numpy as np
 np1 = np.array([-3,-2,-1,0,1,2,3,4,5,6,7,8,9])
 print(np1)
 
-# Square route of each element 
+# Square root of each element 
 #print(np.sqrt(np1))
 
 # Absolute Value
